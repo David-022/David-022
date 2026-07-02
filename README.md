@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there 👋, I'm David Waziri
 
-<!--
-**David-022/David-022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Python developer passionate about building practical software solutions.
 
-Here are some ideas to get you started:
+## 🔹 Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python Development
+- Machine Learning
+- Data Analytics
+- Automation
+- Blockchain Technologies
+- Open Source
+
+## 🔹 Currently Working On
+
+- AI-powered Telegram Bots
+- Blockchain Analytics Tools
+- Sports Analytics Applications
+- Machine Learning Projects
+
+## 🔹 Tech Stack
+
+- Python
+- SQLite
+- Pandas
+- NumPy
+- Scikit-learn
+- Dash
+- Flask
+- Aiogram
+- Git & GitHub
+
+> "Building solutions one line of code at a time."
